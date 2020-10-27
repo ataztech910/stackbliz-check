@@ -1,1 +1,1 @@
-export const test = 123213;
+export const test = 'asdsadasd';
